@@ -63,22 +63,6 @@ const Sidebar = () => {
             />
           </div>
         </Link>
-        <Link href="/articles">
-          <div
-            className={`${styles.iconContainer} ${
-              router.pathname === '/articles' && styles.active
-            }`}
-          >
-            <PencilIcon
-              fill={
-                router.pathname === '/articles'
-                  ? 'rgb(225, 228, 232)'
-                  : 'rgb(106, 115, 125)'
-              }
-              className={styles.icon}
-            />
-          </div>
-        </Link>
         <Link href="/contact">
           <div
             className={`${styles.iconContainer} ${

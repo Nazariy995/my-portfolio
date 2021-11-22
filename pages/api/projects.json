@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "React Counter",
+    "image": "https://imgur.com/A8NYxAA.png",
+    "description": "A Counter app that allows to change counr using React",
+    "tags": ["react", "html", "css"],
+    "source_code": "",
+    "demo": "https://friendly-austin-253745.netlify.app/"
   },
   {
     "id": 2,
